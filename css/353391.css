@@ -1,0 +1,41 @@
+header {
+    background-color: #7b7b7b;
+    padding: 2px;
+}
+
+body {
+    background-color: #111927;
+}
+
+#landing {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#centered-heading {
+    font-family: neue-haas-unica,sans-serif;
+    height: 10vh;
+    text-align: center;
+    color: white;
+}
+
+#centered-slogan {
+    font-family: neue-haas-unica,sans-serif;
+    text-align: center;
+    color: lightblue;
+}
+
+#about {
+    font-family: neue-haas-unica,sans-serif;
+    text-align: center;
+    color: #9fef00;
+}
+
+#contacto {
+    font-family: neue-haas-unica,sans-serif;
+    text-align: center;
+    color: #9fef00;
+    height: 10vh;
+}
